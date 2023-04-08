@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/theLexy/photography.git/static/css/main.0d77afd8.css",
-    "main.js": "/theLexy/photography.git/static/js/main.8b484fc1.js",
-    "static/media/woman.png": "/theLexy/photography.git/static/media/woman.ebdfd2b53846a9342642.png",
-    "static/media/4.jpg": "/theLexy/photography.git/static/media/4.bc5f1950f0641598c2be.jpg",
-    "static/media/3.jpg": "/theLexy/photography.git/static/media/3.299ab1000d9d262c5482.jpg",
-    "static/media/1.jpg": "/theLexy/photography.git/static/media/1.a94f8da6b504234944c2.jpg",
-    "static/media/2.jpg": "/theLexy/photography.git/static/media/2.7a5a8ccbc326379423cf.jpg",
-    "static/media/woman.jpg": "/theLexy/photography.git/static/media/woman.b77cd7b354b50c736c17.jpg",
-    "static/media/logo.svg": "/theLexy/photography.git/static/media/logo.66962e7e9374be1c438e263f30ea966c.svg",
-    "index.html": "/theLexy/photography.git/index.html",
-    "main.0d77afd8.css.map": "/theLexy/photography.git/static/css/main.0d77afd8.css.map",
-    "main.8b484fc1.js.map": "/theLexy/photography.git/static/js/main.8b484fc1.js.map"
+    "main.css": "/photography/static/css/main.0d77afd8.css",
+    "main.js": "/photography/static/js/main.e976a82f.js",
+    "static/media/woman.png": "/photography/static/media/woman.ebdfd2b53846a9342642.png",
+    "static/media/4.jpg": "/photography/static/media/4.bc5f1950f0641598c2be.jpg",
+    "static/media/3.jpg": "/photography/static/media/3.299ab1000d9d262c5482.jpg",
+    "static/media/1.jpg": "/photography/static/media/1.a94f8da6b504234944c2.jpg",
+    "static/media/2.jpg": "/photography/static/media/2.7a5a8ccbc326379423cf.jpg",
+    "static/media/woman.jpg": "/photography/static/media/woman.b77cd7b354b50c736c17.jpg",
+    "static/media/logo.svg": "/photography/static/media/logo.66962e7e9374be1c438e263f30ea966c.svg",
+    "index.html": "/photography/index.html",
+    "main.0d77afd8.css.map": "/photography/static/css/main.0d77afd8.css.map",
+    "main.e976a82f.js.map": "/photography/static/js/main.e976a82f.js.map"
   },
   "entrypoints": [
     "static/css/main.0d77afd8.css",
-    "static/js/main.8b484fc1.js"
+    "static/js/main.e976a82f.js"
   ]
 }
